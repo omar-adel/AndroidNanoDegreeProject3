@@ -8,6 +8,18 @@ The first app is named 'Alexandria Redux' and is a book tracking app that allows
 
 This app uses the Google Play Vision APIs to allow for barcode scanning and it worked pretty well!
 
+![Phone 1](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Alexandria/01.png)
+
+![Phone 2](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Alexandria/02.png)
+
+![Phone 3](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Alexandria/03.png)
+
+![Phone 4](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Alexandria/04.png)
+
+![Phone 5](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Alexandria/05.png)
+
+![Phone 6](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Alexandria/06.png)
+
 ## App 2 - Football Scores Redux
 
 The second app is named 'Football Scores Redux' and is a football score tracking app which downloads current football 'fixtures' and their results.
@@ -23,6 +35,12 @@ Note: If you want to compile and run this app, you will need to obtain your own 
 http://api.football-data.org/index
 
 and place it into the 'api_keys.xml' values file.
+
+![Phone 1](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Football/01.png)
+
+![Phone 2](https://github.com/MarcelBraghetto/AndroidNanoDegreeProject3/raw/master/Support/ReadMeAssets/Football/02.png)
+
+## Summary
 
 Although these projects are my course work submissions, feel free to use anything in here that you might find useful!
 
